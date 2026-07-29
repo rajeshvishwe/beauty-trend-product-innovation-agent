@@ -1,0 +1,10 @@
+google-adk
+google-genai
+python-dotenv
+pydantic
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+gradio
+requests
