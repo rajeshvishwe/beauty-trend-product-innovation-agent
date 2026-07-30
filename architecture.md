@@ -12,7 +12,6 @@ terminal: python app.py
 
 ## Architecture
 
-```
                      User
                       │
                       ▼
